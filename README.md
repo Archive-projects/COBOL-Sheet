@@ -1,4 +1,4 @@
-# CobolSheet
+# COBOL Sheet
 Here's a COBOL coding sheet I formated in Excel
 
 <h1 align="center">
